@@ -2,6 +2,8 @@
 
 A sales and profit dashboard for Bajaj's CEO and CFO, set up as a hypothetical case on the public US Superstore dataset: **9,982 order lines (2018–2021)** across 4 regions, 49 states, 17 sub-categories and 793 customers. Built end-to-end with Claude AI.
 
+**🔗 [Open the interactive dashboard](https://claude.ai/artifact/Ubcw8bdeveugwqaiopFYSb)**
+
 ## What was done
 - **Data cleaning:** removal of 11 invalid sales rows and 1 duplicate
 - **Executive dashboard:** 9 KPI cards, 14 charts, 10 filters and a year-on-year view
